@@ -38,7 +38,7 @@ ___
 ##### Programming languages
 
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="65" height="65"/> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="65" height="65"/> </a>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="65" height="65"/> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="[https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ATypescript_logo_2020.svg&psig=AOvVaw1Mr6x9_OZsGlOQwTkIyfgO&ust=1668385354693000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIj4sfXxqfsCFQAAAAAdAAAAABAE)" alt="typescript" width="65" height="65"/> </a>
 </p>
 
 
